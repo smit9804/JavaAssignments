@@ -1,0 +1,101 @@
+.red{
+    color: antiquewhite;
+    background-image: linear-gradient(red, #814617);
+}
+.orange{
+    color: #0a1195;
+    background-image: linear-gradient(orange, #cc5500);
+}
+.yellow{
+    color: #00703c;
+    background-image: linear-gradient(yellow, #daa520);
+}
+.green{
+    color: beige;
+    background-image: linear-gradient(#65ff00, green);
+}
+.blue{
+    color: antiquewhite;
+    background-image: linear-gradient(#0048ba, blue);
+    
+}
+.indigo{
+    color: antiquewhite;
+    background-image: linear-gradient(#360ccc, #4b0082);
+}
+.purple{
+    color: antiquewhite;
+    background-image: linear-gradient(purple, #512888);
+}
+.beach{
+    color: antiquewhite;
+    background-image: linear-gradient(#0078d7, antiquewhite);
+}
+.desert{
+    color: black;
+    background-image: linear-gradient(blue, green, #edc9af);
+}
+.ou{
+    background-image: linear-gradient(#841617, #ffffbf);
+    color: black;
+    font-weight: bold;
+}
+
+.ou1{
+    background-image: linear-gradient(#ffffbf, #841617);
+    height: 200px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.redbtn{
+    color: antiquewhite;
+    background-image: linear-gradient(red, darkred);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: red;
+    text-decoration: none;
+    padding: 3px;
+    margin: 5px;
+}
+.orangebtn{
+    color: antiquewhite;
+    background-image: linear-gradient(orange, darkorange);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: orange;
+}
+.yellowbtn{
+    color: black;
+    background-image: linear-gradient(yellow, goldenrod);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: yellow;
+    margin: 15px;
+    text-decoration: none;
+    padding: 3px;
+    margin: 5px;
+}
+.greenbtn{
+    color: antiquewhite;
+    background-image: linear-gradient(#32cd32, forestgreen);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: #32cd32;
+     text-decoration: none;
+    padding: 3px;
+    margin: 5px;
+}
+.bluebtn{
+    color: antiquewhite;
+    background-image: linear-gradient(#0048ba, blue);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: #0048ba;
+}
+.purplebtn{
+    color: antiquewhite;
+    background-image: linear-gradient(#512888, #360888);
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: #512888;
+}
